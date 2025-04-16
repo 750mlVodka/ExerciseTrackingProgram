@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExerciseTrackingProgram")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+887c6aee5a25bcbc9e4d1a82fb7381533a7ff14b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbeb3189b57e4f872de3e4ac4e0a344dbae603db")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExerciseTrackingProgram")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExerciseTrackingProgram")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
