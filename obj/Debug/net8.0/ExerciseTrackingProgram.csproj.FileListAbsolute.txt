@@ -1,0 +1,14 @@
+C:\Users\Yamsir\Desktop\d\BYU\W07\ExerciseTrackingProgram\bin\Debug\net8.0\ExerciseTrackingProgram.exe
+C:\Users\Yamsir\Desktop\d\BYU\W07\ExerciseTrackingProgram\bin\Debug\net8.0\ExerciseTrackingProgram.deps.json
+C:\Users\Yamsir\Desktop\d\BYU\W07\ExerciseTrackingProgram\bin\Debug\net8.0\ExerciseTrackingProgram.runtimeconfig.json
+C:\Users\Yamsir\Desktop\d\BYU\W07\ExerciseTrackingProgram\bin\Debug\net8.0\ExerciseTrackingProgram.dll
+C:\Users\Yamsir\Desktop\d\BYU\W07\ExerciseTrackingProgram\bin\Debug\net8.0\ExerciseTrackingProgram.pdb
+C:\Users\Yamsir\Desktop\d\BYU\W07\ExerciseTrackingProgram\obj\Debug\net8.0\ExerciseTrackingProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yamsir\Desktop\d\BYU\W07\ExerciseTrackingProgram\obj\Debug\net8.0\ExerciseTrackingProgram.AssemblyInfoInputs.cache
+C:\Users\Yamsir\Desktop\d\BYU\W07\ExerciseTrackingProgram\obj\Debug\net8.0\ExerciseTrackingProgram.AssemblyInfo.cs
+C:\Users\Yamsir\Desktop\d\BYU\W07\ExerciseTrackingProgram\obj\Debug\net8.0\ExerciseTrackingProgram.csproj.CoreCompileInputs.cache
+C:\Users\Yamsir\Desktop\d\BYU\W07\ExerciseTrackingProgram\obj\Debug\net8.0\ExerciseTrackingProgram.dll
+C:\Users\Yamsir\Desktop\d\BYU\W07\ExerciseTrackingProgram\obj\Debug\net8.0\refint\ExerciseTrackingProgram.dll
+C:\Users\Yamsir\Desktop\d\BYU\W07\ExerciseTrackingProgram\obj\Debug\net8.0\ExerciseTrackingProgram.pdb
+C:\Users\Yamsir\Desktop\d\BYU\W07\ExerciseTrackingProgram\obj\Debug\net8.0\ExerciseTrackingProgram.genruntimeconfig.cache
+C:\Users\Yamsir\Desktop\d\BYU\W07\ExerciseTrackingProgram\obj\Debug\net8.0\ref\ExerciseTrackingProgram.dll
